@@ -12,7 +12,7 @@ const Menu = [
     {
       id: 2,
       image: "images/allupakoida.jpeg",
-      name: "allu pakoida",
+      name: "Aloo pakoda",
       category: "evening",
       price: "20₹",
       description:
